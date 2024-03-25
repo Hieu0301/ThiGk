@@ -1,0 +1,6 @@
+CREATE DATABASE StudentDB
+USE StudentDB
+
+SELECT * FROM students
+
+DELETE FROM students
